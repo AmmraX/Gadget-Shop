@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "GadgetHubAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\GadgetHubClientAPP\\GadgetHubClientAPP.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
